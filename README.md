@@ -9,12 +9,12 @@ Only the scripts and assets I created are shared here to demonstrate my understa
 ## Fast2D
 ### Boids
 A visual simulation of flocking behavior inspired by birds in nature.
-Each boid follows three simple rules: alignment, cohesion, and separation — resulting in smooth, lifelike group movement.
+Each boid follows three simple rules: alignment, cohesion, and separation; resulting in smooth, lifelike group movement.
 When you run the project, you can left-click to spawn new boids. As more are added, they begin reacting to one another, adjusting their direction and spacing dynamically to stay together and avoid collisions.
 ### Car2D
 A simple driving simulation focused on realistic vehicle movement in a 2D space.
 The car responds to acceleration, friction, and steering, simulating front and rear wheel movement to create a believable turning behavior.
-When you run the project, you can drive using W, A, S, and D — accelerating, braking, and steering as the car smoothly rotates and slides according to its speed and wheelbase.
+When you run the project, you can drive using WASD, accelerating, braking, and steering as the car smoothly rotates and slides according to its speed and wheelbase.
 >The car can go off screen
 ### Heads
 A local multiplayer game prototype where two players must escape from an intelligent enemy in a maze-like environment.
@@ -23,10 +23,12 @@ Players can collect power-ups scattered around the map for temporary advantages,
 ### Space Shooters
 A classic-style 2D space shooter where the player pilots a ship that must survive waves of enemies while dodging and firing back.
 Enemies appear at random intervals from the right side of the screen, shooting bullets toward the player as they move left across the stage.
-The player can move using WASD and aim or shoot using the mouse cursor. Power-ups occasionally drift in from the same direction — some restore health, while others enhance firepower, allowing the player to shoot three bullets at once.
+The player can move using WASD and aim or shoot using the mouse cursor. Power-ups occasionally drift in from the same direction: some restore health, while others enhance firepower, allowing the player to shoot three bullets at once.
 ### Tanks
 A local multiplayer turn-based tank battle where two players take turns moving, aiming, and firing under time pressure.
-Each player controls their tank using dedicated keys — Player 1: move with A/D, aim with W/S, and shoot with Space; Player 2: move with the arrow keys, aim with up/down, and shoot with Right Ctrl.
+Each player controls their tank using dedicated keys: 
+- Player 1: move with A/D, aim with W/S, and shoot with Space;
+- Player 2: move with the arrow keys, aim with up/down, and shoot with Right Ctrl.
 Every turn is limited by a timer, encouraging quick thinking and precision before the opponent’s counterattack. The project also features post-processing effects.
 ## Fast3D
 ### Meshes
