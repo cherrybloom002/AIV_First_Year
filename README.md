@@ -2,14 +2,14 @@
 This repo is for the exercises I did during my first year at AIV(Accademia Italiana VIdeogiochi)
 # Disclaimer
 This project was developed for educational purposes during my studies at AIV (Accademia Italiana Videogiochi).
-It makes use of proprietary libraries provided by the academy — AIV Fast2D and AIV Fast3D — which are not publicly available and are the property of AIV.
+It makes use of proprietary libraries provided by the academy "AIV Fast2D" and "AIV Fast3D" which are not publicly available and are the property of AIV.
 Therefore, these libraries and their source code are not included in this repository.
 Only the scripts and assets I created are shared here to demonstrate my understanding of how a game engine works.
 # Project Content
 ## Fast2D
 ### Boids
 A visual simulation of flocking behavior inspired by birds in nature.
-Each boid follows three simple rules — alignment, cohesion, and separation — resulting in smooth, lifelike group movement.
+Each boid follows three simple rules: alignment, cohesion, and separation — resulting in smooth, lifelike group movement.
 When you run the project, you can left-click to spawn new boids. As more are added, they begin reacting to one another, adjusting their direction and spacing dynamically to stay together and avoid collisions.
 ### Car2D
 A simple driving simulation focused on realistic vehicle movement in a 2D space.
