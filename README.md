@@ -1,5 +1,3 @@
-# AIV_First_Year
-This repo is for the exercises I did during my first year at AIV(Accademia Italiana VIdeogiochi)
 # Disclaimer
 This project was developed for educational purposes during my studies at AIV (Accademia Italiana Videogiochi).
 It makes use of proprietary libraries provided by the academy "AIV Fast2D" and "AIV Fast3D" which are not publicly available and are the property of AIV.
